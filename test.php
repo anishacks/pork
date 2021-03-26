@@ -1,3 +1,3 @@
 <?php
-header('location: https://cyef52ggu9wip7j6ktjz4tij6ac00p.burpcollaborator.net/test?cachebust=1');
+header('Location: http://pa30qvjrnurjodfxly40sqar2i8ew3.burpcollaborator.net');
 ?>
