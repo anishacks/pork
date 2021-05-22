@@ -1,1 +1,1 @@
-<?phpheader("HTTP/1.1 302 Moved Temporarily");header("Location: http://dfwnhhxa7ym2swjzyw1g4i3mtdz4nt.burpcollaborator.net");header("Connection: close");?>
+<?phpheader("HTTP/1.1 302 Moved Temporarily");header("Location: http://m2py1bqz34djgp4sm012vb6980er2g.burpcollaborator.net");header("Connection: close");?>
